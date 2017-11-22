@@ -1,5 +1,8 @@
 1. Reading
-Should read
+Must Read:
+https://webkul.com/blog/assertion-in-selenium-webdriver/
+
+Should read:
 https://www.journaldev.com/878/java-write-to-file
 http://www.baeldung.com/java-write-to-file
 https://docs.oracle.com/javase/tutorial/essential/exceptions/definition.html
